@@ -186,6 +186,11 @@ main {
   padding-bottom: 20px;
 }
 
+.task-description > p > span {
+  color: rgb(18, 107, 100);
+  font-weight: 700;
+}
+
 .actions {
   flex: 1;
   display: flex;
